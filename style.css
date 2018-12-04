@@ -1,0 +1,41 @@
+
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headertop {
+    height: 20px;
+    background-color: crimson;
+}
+
+.headerbottom {
+    height: 20px;
+    background-color: cornflowerblue;
+}
+
+.columnleft {
+    height: 500px;
+    float: left;
+    background-color: darkolivegreen;
+}
+
+.columncenter {
+    height: 500px;
+    float: left;
+    background-color: darkslategray;
+}
+
+.columnright {
+    height: 500px;
+    float: left;
+    background-color: dodgerblue;
+}
+
+.footer {
+    height: 40px;
+    background-color: cadetblue;
+}
+
+
