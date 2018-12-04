@@ -7,7 +7,7 @@
 
 .headertop {
     height: 20px;
-    background-color: crimson;
+    background-color:darkturquoise
 }
 
 .headerbottom {
@@ -17,18 +17,21 @@
 
 .columnleft {
     height: 500px;
+    width: 25%;
     float: left;
-    background-color: darkolivegreen;
+    background-color:darkcyan;
 }
 
 .columncenter {
     height: 500px;
+    width: 50%;
     float: left;
     background-color: darkslategray;
 }
 
 .columnright {
     height: 500px;
+    width: 25%;
     float: left;
     background-color: dodgerblue;
 }
@@ -36,6 +39,7 @@
 .footer {
     height: 40px;
     background-color: cadetblue;
+    clear: left;
 }
 
 
