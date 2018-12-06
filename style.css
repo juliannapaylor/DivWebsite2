@@ -6,7 +6,7 @@
 }
 
 .headertop {
-    height: 20px;
+    height: 40px;
     background-color:darkturquoise
 }
 
@@ -42,4 +42,14 @@
     clear: left;
 }
 
+p {
+    font-family: cursive;
+}
 
+h1 {
+    font-family: fantasy;
+}
+
+body {
+    background-image: url(just-waves.png);
+}
